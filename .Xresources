@@ -1,0 +1,40 @@
+! Base colors
+*.foreground:  #DCDFE4
+*.background:  #21252B
+*.cursorColor: #DCDFE4
+
+*.color0:  #3D424B
+*.color1:  #E06C75
+*.color2: #98C379
+*.color3: #E5C07B
+*.color4: #61AFEF
+*.color5: #C678DD
+*.color6: #70C0B1
+*.color7: #DCDFE4
+*.color8:  #565E6B
+*.color9:  #D54E53
+*.color10:  #68B53B
+*.color11:  #D19A66
+*.color12:  #4D78CC
+*.color13:  #B45BC9
+*.color14:  #4EAB9D
+*.color15:  #DCDFE4
+
+! Rofi
+rofi.font: JetBrainsMono 12
+rofi.padding: 20
+rofi.line-padding: 2
+rofi.color-enabled: true
+rofi.hide-scrollbar: true
+rofi.separator-style: solid
+rofi.color-window: #1c2023, #919ba0, #1c2023
+rofi.color-normal: #1c2023, #919ba0, #1c2023, #a4a4a4, #1c2023
+rofi.color-urgent: argb:00000000, #f43753, argb:00000000, argb:00000000, #e29a49
+rofi.color-active: argb:00000000, #49bbfb, argb:00000000, argb:00000000, #e29a49
+rofi.kb-cancel: Escape,Alt+F1
+
+! Font settings
+Xft.hinting: 1
+Xft.hintstyle: hintslight
+Xft.antialias: 1
+Xft.rgba: rgb 
