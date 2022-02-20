@@ -10,6 +10,7 @@ dotfiles for my rice
 - glava
 - kitty
 - neofetch
+- feh
 
 ### screenshot:
 
