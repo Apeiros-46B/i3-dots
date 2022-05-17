@@ -1,5 +1,6 @@
 # dots
 dotfiles for my i3 rice
+
 no longer updated
 
 ### required:
